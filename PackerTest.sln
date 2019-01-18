@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PackerTest", "PackerTest\PackerTest.csproj", "{54AC5448-C1D0-4916-BC54-633BE6C3B9FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetPacker", "NetPacker\NetPacker.csproj", "{E74A1970-6D0D-4C79-91F3-7839B998BCE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54AC5448-C1D0-4916-BC54-633BE6C3B9FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54AC5448-C1D0-4916-BC54-633BE6C3B9FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54AC5448-C1D0-4916-BC54-633BE6C3B9FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54AC5448-C1D0-4916-BC54-633BE6C3B9FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E74A1970-6D0D-4C79-91F3-7839B998BCE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E74A1970-6D0D-4C79-91F3-7839B998BCE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E74A1970-6D0D-4C79-91F3-7839B998BCE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E74A1970-6D0D-4C79-91F3-7839B998BCE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7BD4A66-BA5F-4F38-B003-24FEC23F6A9C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+c:\users\colton\source\repos\PackerTest\PackerTest\bin\Debug\PackerTest.exe.config
+c:\users\colton\source\repos\PackerTest\PackerTest\bin\Debug\PackerTest.exe
+c:\users\colton\source\repos\PackerTest\PackerTest\bin\Debug\PackerTest.pdb
+c:\users\colton\source\repos\PackerTest\PackerTest\obj\Debug\PackerTest.csprojResolveAssemblyReference.cache
+c:\users\colton\source\repos\PackerTest\PackerTest\obj\Debug\PackerTest.csproj.CoreCompileInputs.cache
+c:\users\colton\source\repos\PackerTest\PackerTest\obj\Debug\PackerTest.exe
+c:\users\colton\source\repos\PackerTest\PackerTest\obj\Debug\PackerTest.pdb
+c:\users\colton\source\repos\PackerTest\PackerTest\bin\Debug\dnlib.dll
+c:\users\colton\source\repos\PackerTest\PackerTest\bin\Debug\dnlib.pdb
+c:\users\colton\source\repos\PackerTest\PackerTest\bin\Debug\dnlib.xml
+C:\Users\colton\source\repos\PackerTest\PackerTest\bin\Debug\NetPacker.dll
+C:\Users\colton\source\repos\PackerTest\PackerTest\bin\Debug\0Harmony.dll
+C:\Users\colton\source\repos\PackerTest\PackerTest\bin\Debug\NetPacker.pdb

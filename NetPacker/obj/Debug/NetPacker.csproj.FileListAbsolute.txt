@@ -1,0 +1,9 @@
+c:\users\colton\source\repos\PackerTest\NetPacker\bin\Debug\NetPacker.dll
+c:\users\colton\source\repos\PackerTest\NetPacker\bin\Debug\NetPacker.pdb
+c:\users\colton\source\repos\PackerTest\NetPacker\obj\Debug\NetPacker.csprojResolveAssemblyReference.cache
+c:\users\colton\source\repos\PackerTest\NetPacker\obj\Debug\NetPacker.csproj.CoreCompileInputs.cache
+c:\users\colton\source\repos\PackerTest\NetPacker\obj\Debug\NetPacker.dll
+c:\users\colton\source\repos\PackerTest\NetPacker\obj\Debug\NetPacker.pdb
+c:\users\colton\source\repos\PackerTest\NetPacker\bin\Debug\dnlib.dll
+c:\users\colton\source\repos\PackerTest\NetPacker\bin\Debug\dnlib.pdb
+c:\users\colton\source\repos\PackerTest\NetPacker\bin\Debug\dnlib.xml
